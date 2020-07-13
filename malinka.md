@@ -1,3 +1,3 @@
-# Moja malinka <3
+# Moja je malinka <3
 
 Malina malinka malinecka
