@@ -1,6 +1,6 @@
 # Jahodka   
 
-Toto je moja oblubena jahodka.
+Toto je moja oblubena jahodka. <3
 
 ## Vlastnosti
 
