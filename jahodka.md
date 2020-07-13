@@ -12,4 +12,4 @@ Jahodka je:
 * chutna
 * proste mnam!
 
-A co je najlepsie, mozeme ju zjest!!! <3
+A co je najlepsie, mozeme ju zjest!!! <3 <3
