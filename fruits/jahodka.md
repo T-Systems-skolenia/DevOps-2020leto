@@ -1,4 +1,4 @@
-# Jahodka   
+# Jahodka zmena kvoli branchom  
 
 Toto je moja oblubena jahodka. <3
 
