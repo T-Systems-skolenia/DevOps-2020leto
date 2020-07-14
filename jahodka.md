@@ -2,7 +2,7 @@
 
 Toto je moja oblubena jahodka. <3
 
-## Vlastnosti
+## Vlastnosti jahodky
 
 Jahodka je:
 
